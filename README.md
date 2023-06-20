@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/al_shaimon" target="blank"><img src="https://img.shields.io/twitter/follow/al_shaimon?logo=twitter&style=for-the-badge" alt="al_shaimon" /></a> </p>
 
-<p align="left"> <a href="https://www.facebook.com/al.shaimon" target="blank"><img src="https://img.shields.io/twitter/follow/al_shaimon?logo=twitter&style=for-the-badge" alt="al_shaimon" /></a> </p>
-
 - 🌱 I’m currently learning **Typescript, Redux**
 
 - 👨‍💻 All of my projects are available at [https://alshaimon.com/](https://alshaimon.com/)
