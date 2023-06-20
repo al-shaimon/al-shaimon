@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Shaimon</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=al-shaimon&label=Profile%20views&color=0e75b6&style=flat" alt="al-shaimon" /> </p>
-
 <p align="left"> <a href="https://twitter.com/al_shaimon" target="blank"><img src="https://img.shields.io/twitter/follow/al_shaimon?logo=twitter&style=for-the-badge" alt="al_shaimon" /></a> </p>
 
 - 🌱 I’m currently learning **Typescript, Redux**
@@ -15,6 +13,15 @@
 - 📫 How to reach me **alshaimon152@gmail.com**
 
 - 📄 Know about my experiences [https://tinyurl.com/abdullah-al-shaimon-resume](https://tinyurl.com/abdullah-al-shaimon-resume)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=al-shaimon&label=Profile%20views&color=0e75b6&style=flat" alt="al-shaimon" /> 
+<a href="https://codeforces.com/profile/al-shaimon">
+    <img alt="Codeforces" src="https://cp-logo.vercel.app/codeforces/al-shaimon"/>
+</a>
+<a href="https://atcoder.jp/users/al_shaimon">
+    <img alt="Atcoder" src="https://cp-logo.vercel.app/atcoder/al_shaimon"/>
+</a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
