@@ -46,6 +46,10 @@
 <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" width="40" height="40"/> </a>
 
 
+<h3 align="left">CMS: </h3>
+<p align="left">
+<a href="https://wordpress.org/download/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/768px-WordPress_blue_logo.svg.png" alt="WordPress" width="40" height="40"/></a> 
+
 <h3 align="left">Other Technologies: </h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
