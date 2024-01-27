@@ -67,8 +67,14 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png" alt="xd" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=al-shaimon&show_icons=true&locale=en&theme=radical" alt="al-shaimon" /></p>
+<a href="https://github.com/al-shaimon">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=al-shaimon&theme=radical" />
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=al-shaimon&show_icons=true&locale=en&theme=radical" alt="al-shaimon" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al-shaimon&theme=radical" alt="al-shaimon" /></p>
+<a href="https://github.com/al-shaimon">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=al-shaimon&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
+</br>
+<a href="https://github.com/al-shaimon">
+    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al-shaimon&card_width=782&theme=radical" alt="al-shaimon" />
+</a>
