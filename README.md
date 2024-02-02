@@ -74,7 +74,7 @@
 <a href="https://github.com/al-shaimon">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=al-shaimon&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
-</br>
+
 <a href="https://github.com/al-shaimon">
     <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al-shaimon&card_width=782&theme=radical" alt="al-shaimon" />
 </a>
