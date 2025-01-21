@@ -22,9 +22,9 @@
     <img alt="Codeforces" src="https://cp-logo.vercel.app/codeforces/al-shaimon"/>
 </a>
     -->
-<a href="https://atcoder.jp/users/al_shaimon">
+<!-- <a href="https://atcoder.jp/users/al_shaimon">
     <img alt="Atcoder" src="https://cp-logo.vercel.app/atcoder/al_shaimon"/>
-</a>
+</a> -->
 </p>
 
 <h3 align="left">Connect with me:</h3>
