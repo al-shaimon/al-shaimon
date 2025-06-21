@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Prisma, Docker, Azure, AWS**
 
-- 👨‍💻 All of my projects are available at [https://alshaimon.com/](https://alshaimon.com)
+- 👨‍💻 All of my projects are available at [https://alshaimon.com](https://alshaimon.com)
 
 - 💬 Ask me about **JavaScript, React**
 
