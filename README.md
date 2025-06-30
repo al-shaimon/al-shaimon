@@ -17,6 +17,7 @@
 - 📄 Know about my experiences [https://tinyurl.com/abdullah-al-shaimon-resume](https://tinyurl.com/abdullah-al-shaimon-resume)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al-shaimon&label=Profile%20views&color=0e75b6&style=flat" alt="al-shaimon" /> 
+<img src="https://gh.alshaimon.com/api/track" width="1" height="1" style="display:none;" alt="">
 <!--
     <a href="https://codeforces.com/profile/al-shaimon">
     <img alt="Codeforces" src="https://cp-logo.vercel.app/codeforces/al-shaimon"/>
