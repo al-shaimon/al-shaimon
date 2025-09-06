@@ -17,7 +17,6 @@
 - 📄 Know about my experiences [https://tinyurl.com/abdullah-al-shaimon-resume](https://tinyurl.com/abdullah-al-shaimon-resume)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al-shaimon&label=Profile%20views&color=0e75b6&style=flat" alt="al-shaimon" /> 
-<img src="https://gh.alshaimon.com/api/track" width="1" height="1" style="display:none;" alt="">
 <!--
     <a href="https://codeforces.com/profile/al-shaimon">
     <img alt="Codeforces" src="https://cp-logo.vercel.app/codeforces/al-shaimon"/>
@@ -61,7 +60,7 @@
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a> 
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://redux.js.org/img/redux.svg" alt="Redux" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="40" height="40"/> </a> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://mongoosejs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" alt="mongoose" width="40" height="40"/> </a> 
 <a href="https://prisma.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="prisma" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
