@@ -48,7 +48,7 @@
 
 <h3 align="left">CMS: </h3>
 <p align="left">
-<a href="https://wordpress.org/download/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/768px-WordPress_blue_logo.svg.png" alt="WordPress" width="40" height="40"/></a> 
+<a href="https://wordpress.org/download/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dr4guscnl/image/upload/v1771227899/WordPress_blue_logo.svg_ojv5ms.png" alt="WordPress" width="40" height="40"/></a> 
 
 <h3 align="left">Other Technologies: </h3>
 <p align="left"> 
@@ -72,10 +72,10 @@
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/XD.svg" alt="xd" width="40" height="40"/> </a> </p>
 
 <a href="https://github.com/al-shaimon">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=al-shaimon&theme=radical" />
+  <img height=200 align="center" src="https://github-stats.alshaimon.com/api?username=al-shaimon&theme=radical" />
 </a>
 <a href="https://github.com/al-shaimon">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=al-shaimon&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=200 align="center" src="https://github-stats.alshaimon.com/api/top-langs?username=al-shaimon&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
 <!-- <a href="https://github.com/al-shaimon">
     <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al-shaimon&card_width=782&theme=radical" alt="al-shaimon" />
