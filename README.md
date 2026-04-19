@@ -3,7 +3,6 @@
 </p>
 <h1 align="center"></h1>
 
-
 <!---
 <p align="left"> <a href="https://twitter.com/al_shaimon" target="blank"><img src="https://img.shields.io/twitter/follow/al_shaimon?logo=twitter&style=for-the-badge" alt="al_shaimon" /></a> </p>
 -->
@@ -16,7 +15,8 @@
 
 - 📫 How to reach me **alshaimon152@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/abdullah-al-shaimon-resume](https://tinyurl.com/abdullah-al-shaimon-resume)
+- 📄 Know about my experiences
+  [https://tinyurl.com/abdullah-al-shaimon-resume](https://tinyurl.com/abdullah-al-shaimon-resume)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al-shaimon&label=Profile%20views&color=0e75b6&style=flat" alt="al-shaimon" /> 
 <!--
@@ -30,7 +30,6 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 <p align="left">
   <a href="https://github.com/al-shaimon" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -56,11 +55,12 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" width="40" height="40"/> </a>
-
+</p>
 
 <h3 align="left">CMS: </h3>
 <p align="left">
 <a href="https://wordpress.org/download/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dr4guscnl/image/upload/v1771227899/WordPress_blue_logo.svg_ojv5ms.png" alt="WordPress" width="40" height="40"/></a> 
+</p>
 
 <h3 align="left">Other Technologies: </h3>
 <p align="left"> 
