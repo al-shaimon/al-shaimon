@@ -63,15 +63,15 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,redux,nodejs,express,mongodb,postgres,firebase,postman,figma,git,prisma&theme=dark&perline=16" alt="Other technologies: HTML, CSS, Tailwind, Bootstrap, React, Next.js, Redux, Node.js, Express, MongoDB, PostgreSQL, Firebase, Postman, Figma, Git, Prisma" />
 </p>
 
-<a href="https://github.com/al-shaimon">
+<!-- <a href="https://github.com/al-shaimon">
   <img height=200 align="center" src="https://github-stats.alshaimon.com/api?username=al-shaimon&theme=radical" />
 </a>
 <a href="https://github.com/al-shaimon">
   <img height=200 align="center" src="https://github-stats.alshaimon.com/api/top-langs?username=al-shaimon&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
+</a> -->
 <!-- <a href="https://github.com/al-shaimon">
     <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al-shaimon&card_width=782&theme=radical" alt="al-shaimon" />
 </a> -->
 <a href="https://github.com/al-shaimon">
-    <img height=200 align="center" src="https://github-readme-streak-stats-salesp07.vercel.app?user=al-shaimon&card_width=782&theme=radical" alt="al-shaimon" />
+    <img height=200 align="center" src="https://github-readme-streak-stats-salesp07.vercel.app?user=al-shaimon&card_width=890&theme=radical" alt="al-shaimon" />
 </a>
