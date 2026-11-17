@@ -1,7 +1,7 @@
 <a href="https://alshaimon.com"><img src="assets/banner.svg" alt="Abdullah Al Shaimon, Full-Stack and AI Engineer" width="100%" /></a>
 
 <p align="center">
-  <a href="https://wa.me/8801690174668?text=Hi%20Abdullah%21%20I%20found%20your%20GitHub%20profile%20and%20I%27d%20like%20to%20work%20with%20you.%0A%0AWhat%20I%20need%3A%0ATimeline%3A%0ABudget%20/%20role%20type%3A%0A%0AWhen%20is%20a%20good%20time%20to%20talk%3F"><img src="assets/btn-whatsapp.webp" alt="Hire me on WhatsApp" height="42" /></a>
+  <a href="https://wa.me/8801690174668?text=Hi%20Abdullah%21%20I%20found%20your%20GitHub%20profile%20and%20I%27d%20like%20to%20work%20with%20you.%0A%0AWhat%20I%20need%3A%0ATimeline%3A%0ABudget%20/%20role%20type%3A%0A%0AWhen%20is%20a%20good%20time%20to%20talk%3F"><img src="assets/btn-hire.webp" alt="Hire me on WhatsApp" height="42" /></a>
   <a href="mailto:alshaimon152@gmail.com"><img src="assets/btn-email.webp" alt="Email" height="42" /></a>
   <a href="https://linkedin.com/in/al-shaimon"><img src="assets/btn-linkedin.webp" alt="LinkedIn" height="42" /></a>
   <a href="https://alshaimon.com"><img src="assets/btn-portfolio.webp" alt="Portfolio" height="42" /></a>
