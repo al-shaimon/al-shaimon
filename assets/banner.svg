@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Abdullah Al Shaimon — Full-Stack and AI Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b14"/>
+      <stop offset="0.55" stop-color="#0d1426"/>
+      <stop offset="1" stop-color="#101b33"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#818cf8"/>
+      <stop offset="1" stop-color="#c084fc"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#6366f1" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0.30"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#94a3b8" fill-opacity="0.10"/>
+    </pattern>
+    <clipPath id="card"><rect width="1200" height="380" rx="22"/></clipPath>
+    <style>
+      .sans{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+      .mono{font-family:'JetBrains Mono','Cascadia Code',Consolas,'SFMono-Regular',Menlo,monospace}
+      .fade{opacity:0;animation:fade .9s ease-out forwards}
+      .d1{animation-delay:.15s}.d2{animation-delay:.45s}.d3{animation-delay:.75s}.d4{animation-delay:1.05s}
+      @keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+      .edge{stroke:#64748b;stroke-opacity:.35;stroke-width:1.2}
+      .pulse{stroke:url(#accent);stroke-width:2.2;stroke-linecap:round;stroke-dasharray:14 220;animation:flow 3.2s linear infinite}
+      .p2{animation-delay:-.8s}.p3{animation-delay:-1.6s}.p4{animation-delay:-2.4s}.p5{animation-delay:-1.1s}.p6{animation-delay:-2.0s}
+      @keyframes flow{from{stroke-dashoffset:234}to{stroke-dashoffset:0}}
+      .node{fill:#0b1222;stroke-width:2}
+      .n-in{stroke:#22d3ee}.n-mid{stroke:#818cf8}.n-out{stroke:#c084fc}
+      .core{animation:breathe 2.6s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+      .c2{animation-delay:-.9s}.c3{animation-delay:-1.7s}
+      @keyframes breathe{0%,100%{opacity:.55;transform:scale(.8)}50%{opacity:1;transform:scale(1.15)}}
+      .blink{animation:blink 1.1s steps(1) infinite}
+      @keyframes blink{50%{opacity:0}}
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="380" fill="url(#bg)"/>
+    <rect width="1200" height="380" fill="url(#dots)"/>
+    <circle cx="930" cy="120" r="260" fill="url(#glowA)"/>
+    <circle cx="150" cy="360" r="240" fill="url(#glowB)"/>
+    <rect x="0" y="0" width="1200" height="4" fill="url(#accent)"/>
+
+    <!-- left: identity -->
+    <g class="fade d1">
+      <rect x="64" y="64" width="250" height="30" rx="15" fill="#22d3ee" fill-opacity="0.10" stroke="#22d3ee" stroke-opacity="0.45"/>
+      <circle cx="84" cy="79" r="4.5" fill="#22d3ee" class="core"/>
+      <text x="98" y="84" class="mono" font-size="13" fill="#a5f3fc" letter-spacing="1">AVAILABLE FOR NEW WORK</text>
+    </g>
+
+    <g class="fade d2">
+      <text x="62" y="152" class="sans" font-size="54" font-weight="800" fill="#f8fafc" letter-spacing="-1">Abdullah Al Shaimon</text>
+    </g>
+
+    <g class="fade d3">
+      <text x="64" y="200" class="sans" font-size="28" font-weight="700" fill="url(#accent)">Full-Stack &amp; AI Engineer</text>
+      <text x="64" y="238" class="sans" font-size="17" fill="#94a3b8">I build web products with intelligence built in: LLM agents,</text>
+      <text x="64" y="262" class="sans" font-size="17" fill="#94a3b8">ML-powered features and the full stack that ships them.</text>
+    </g>
+
+    <g class="fade d4 mono" font-size="13">
+      <g transform="translate(64,292)">
+        <rect width="84" height="30" rx="8" fill="#1e293b" stroke="#334155"/><text x="42" y="20" text-anchor="middle" fill="#e2e8f0">Next.js</text>
+      </g>
+      <g transform="translate(156,292)">
+        <rect width="94" height="30" rx="8" fill="#1e293b" stroke="#334155"/><text x="47" y="20" text-anchor="middle" fill="#e2e8f0">TypeScript</text>
+      </g>
+      <g transform="translate(258,292)">
+        <rect width="78" height="30" rx="8" fill="#1e293b" stroke="#334155"/><text x="39" y="20" text-anchor="middle" fill="#e2e8f0">Node.js</text>
+      </g>
+      <g transform="translate(344,292)">
+        <rect width="98" height="30" rx="8" fill="#312e81" fill-opacity="0.55" stroke="#818cf8" stroke-opacity="0.6"/><text x="49" y="20" text-anchor="middle" fill="#c7d2fe">LLM agents</text>
+      </g>
+      <g transform="translate(450,292)">
+        <rect width="58" height="30" rx="8" fill="#312e81" fill-opacity="0.55" stroke="#818cf8" stroke-opacity="0.6"/><text x="29" y="20" text-anchor="middle" fill="#c7d2fe">MCP</text>
+      </g>
+      <g transform="translate(516,292)">
+        <rect width="74" height="30" rx="8" fill="#312e81" fill-opacity="0.55" stroke="#818cf8" stroke-opacity="0.6"/><text x="37" y="20" text-anchor="middle" fill="#c7d2fe">ML APIs</text>
+      </g>
+    </g>
+
+    <!-- right: neural network that resolves into code -->
+    <g transform="translate(700,58)">
+      <!-- edges: input(3) -> hidden(4) -> output(2) -->
+      <g class="edge">
+        <line x1="40" y1="50" x2="190" y2="20"/><line x1="40" y1="50" x2="190" y2="100"/><line x1="40" y1="50" x2="190" y2="180"/>
+        <line x1="40" y1="135" x2="190" y2="20"/><line x1="40" y1="135" x2="190" y2="100"/><line x1="40" y1="135" x2="190" y2="180"/><line x1="40" y1="135" x2="190" y2="250"/>
+        <line x1="40" y1="220" x2="190" y2="100"/><line x1="40" y1="220" x2="190" y2="180"/><line x1="40" y1="220" x2="190" y2="250"/>
+        <line x1="190" y1="20" x2="330" y2="90"/><line x1="190" y1="100" x2="330" y2="90"/><line x1="190" y1="180" x2="330" y2="90"/>
+        <line x1="190" y1="100" x2="330" y2="180"/><line x1="190" y1="180" x2="330" y2="180"/><line x1="190" y1="250" x2="330" y2="180"/>
+        <line x1="344" y1="90" x2="372" y2="128"/><line x1="344" y1="180" x2="372" y2="142"/>
+      </g>
+      <g fill="none">
+        <path class="pulse" d="M40 50 L190 100 L330 90"/>
+        <path class="pulse p2" d="M40 135 L190 20 L330 90"/>
+        <path class="pulse p3" d="M40 220 L190 180 L330 180"/>
+        <path class="pulse p4" d="M40 135 L190 250 L330 180"/>
+        <path class="pulse p5" d="M40 220 L190 100 L330 180"/>
+        <path class="pulse p6" d="M40 50 L190 180 L330 90"/>
+      </g>
+      <g>
+        <circle class="node n-in" cx="40" cy="50" r="13"/><circle class="node n-in" cx="40" cy="135" r="13"/><circle class="node n-in" cx="40" cy="220" r="13"/>
+        <circle class="node n-mid" cx="190" cy="20" r="11"/><circle class="node n-mid" cx="190" cy="100" r="11"/><circle class="node n-mid" cx="190" cy="180" r="11"/><circle class="node n-mid" cx="190" cy="250" r="11"/>
+        <circle class="node n-out" cx="330" cy="90" r="14"/><circle class="node n-out" cx="330" cy="180" r="14"/>
+        <circle cx="40" cy="50" r="4.5" fill="#22d3ee" class="core"/><circle cx="40" cy="135" r="4.5" fill="#22d3ee" class="core c2"/><circle cx="40" cy="220" r="4.5" fill="#22d3ee" class="core c3"/>
+        <circle cx="190" cy="20" r="4" fill="#818cf8" class="core c2"/><circle cx="190" cy="100" r="4" fill="#818cf8" class="core c3"/><circle cx="190" cy="180" r="4" fill="#818cf8" class="core"/><circle cx="190" cy="250" r="4" fill="#818cf8" class="core c2"/>
+        <circle cx="330" cy="90" r="5" fill="#c084fc" class="core c3"/><circle cx="330" cy="180" r="5" fill="#c084fc" class="core"/>
+      </g>
+      <!-- layer labels -->
+      <g class="mono" font-size="11" fill="#64748b" text-anchor="middle">
+        <text x="40" y="262">idea</text>
+        <text x="190" y="284">model + api</text>
+        <text x="330" y="216">product</text>
+      </g>
+      <!-- output: code glyph -->
+      <g transform="translate(372,112)" class="mono">
+        <rect x="0" y="0" width="92" height="46" rx="10" fill="#0b1222" stroke="url(#accent)" stroke-width="1.6"/>
+        <text x="46" y="30" text-anchor="middle" font-size="19" font-weight="700" fill="#e9d5ff">&lt;/&gt;<tspan class="blink" fill="#22d3ee">_</tspan></text>
+      </g>
+    </g>
+
+    <!-- bottom-right terminal hint -->
+    <text x="1136" y="352" text-anchor="end" class="mono" font-size="12" fill="#475569">$ ship --with-ai</text>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="379" rx="22" fill="none" stroke="#1e293b"/>
+</svg>
