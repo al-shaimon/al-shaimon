@@ -1,6 +1,6 @@
 <!-- ░░ Header ░░ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0b132b,45:1c2541,100:5bc0be&height=230&section=header&text=Abdullah%20Al%20Shaimon&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20Chattogram%2C%20Bangladesh&descSize=17&descAlignY=62&animation=fadeIn" alt="Abdullah Al Shaimon — Full Stack Developer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0b132b,55:1c2541,100:3a9e9c&height=220&rotate=-3&section=header&text=Abdullah%20Al%20Shaimon&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Chattogram%2C%20Bangladesh&descSize=17&descAlignY=56&animation=fadeIn" alt="Abdullah Al Shaimon — Full Stack Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ Since 2023 I've been freelancing for international clients on **Upwork** and **F
 ```ts
 const abdullah = {
   role:       "Full Stack Developer",
-  based:      "Chattogram, Bangladesh 🇧🇩  (works remote, worldwide)",
+  based:      "Chattogram, Bangladesh (remote, worldwide)",
   experience: "5+ years building for the web · 35+ projects delivered",
   coreStack:  ["Next.js", "React", "TypeScript", "Node.js", "Express", "MongoDB", "PostgreSQL", "Prisma"],
   focus:      ["Clean architecture", "Performance & SEO", "RBAC / auth", "Payments", "AI-powered features"],
