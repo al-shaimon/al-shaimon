@@ -89,7 +89,7 @@ I treat AI as a product feature, not a demo. What that looks like in my work:
       <img src="https://img.shields.io/badge/🏆_2nd_Runner--Up-NextGen_Hackathon-f59e0b?style=flat-square" alt="Award" />
       <p>AI-powered youth employment platform (SDG 8): job matching with match %, AI CareerBot, mock interviews, CV improvement, learning roadmaps, verified employers and Stripe / SSLCommerz payments — in English and Bangla. <i>I led the team's build.</i></p>
       <code>React 19</code> <code>TypeScript</code> <code>Node.js</code> <code>MongoDB</code> <code>Gemini</code> <code>MCP</code><br/><br/>
-      <a href="https://nextgen-career.alshaimon.com"><b>Live site ↗</b></a>
+      <a href="https://nextgen-career.alshaimon.com"><b>Live site ↗</b></a> · <a href="https://github.com/al-shaimon/nextgen-career-frontend">Client</a> · <a href="https://github.com/al-shaimon/nextgen-career-server">Server</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://techwrite.alshaimon.com"><img src="assets/techwrite.jpg" alt="TechWrite AI Agent Suite" width="100%" /></a>
@@ -107,7 +107,7 @@ I treat AI as a product feature, not a demo. What that looks like in my work:
       <img src="https://img.shields.io/badge/🏆_1st_Runner--Up-Tech_Hackathon_2025-f59e0b?style=flat-square" alt="Award" />
       <p>Farm-to-table supply chain for Chattogram: farmers sell directly to buyers with no middlemen. Farmer and buyer dashboards, price control, order tracking, real-time produce availability and live updates.</p>
       <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Socket.IO</code><br/><br/>
-      <a href="https://agroconnect.alshaimon.com"><b>Live site ↗</b></a>
+      <a href="https://agroconnect.alshaimon.com"><b>Live site ↗</b></a> · <a href="https://github.com/al-shaimon/agroconnect-frontend">Client</a> · <a href="https://github.com/al-shaimon/agroconnect-backend">Server</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://airadioroyaltytracker.com"><img src="assets/airadio.jpg" alt="AI Radio Royalty Tracker" width="100%" /></a>
